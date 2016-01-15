@@ -1,0 +1,15 @@
+server:
+    port:  8090
+
+logging:
+    level: INFO
+
+endpoints:
+    health:
+       sensitive: false
+       enabled: yes
+    shutdown:
+       enabled: yes
+       sensitive: false
+       
+       

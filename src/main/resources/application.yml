@@ -1,6 +1,12 @@
 server:
     port:  8090
 
+test: hola 
+
+repository:
+    folder: \Users\David\Desktop\Trabajo\Haufe\filerepository
+    maxSize: 100
+
 logging:
     level: INFO
 
